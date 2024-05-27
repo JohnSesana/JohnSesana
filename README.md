@@ -1,5 +1,4 @@
-# Hi, I'm John! 👋
-## I'm a Self-Taught Data Engineer and Data Scientist 📊 
+# Self-Taught Data Engineer and Data Scientist 📊 
 
 <div style="position: relative;">
   <img align="right" alt="Data Engineering GIF" width="260px" style="flex: 1; z-index: 21;" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2swbmk4bjkzdGNudHNucjlleHBnOTB0dnp4MmJzbG5oaDJsbThnNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JWuBH9rCO2uZuHBFpm/giphy.gif" />
