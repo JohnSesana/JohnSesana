@@ -4,7 +4,8 @@
   <img align="right" alt="Data Engineering GIF" width="260px" style="flex: 1; z-index: 21;" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2swbmk4bjkzdGNudHNucjlleHBnOTB0dnp4MmJzbG5oaDJsbThnNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JWuBH9rCO2uZuHBFpm/giphy.gif" />
 </div>
 
-I'm passionate about building data pipelines, doing advanced data analysis and visualizations, and deploying machine learning models.
+I'm a Brazilian 🇧🇷 self-taught data developer that tried his luck in Canada 🇨🇦. 
+I pivoted my career from business management to data analytics and now I'm currently working as a Data Engineer.
 
 ![JohnSesana's Stats](https://github-readme-stats.vercel.app/api?username=JohnSesana&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
 
