@@ -1,7 +1,7 @@
 # Self-Taught Data Engineer and Data Scientist 📊 
 
 <div style="position: relative;">
-  <img align="right" alt="Data Engineering GIF" width="260px" style="flex: 1; z-index: 21;" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2swbmk4bjkzdGNudHNucjlleHBnOTB0dnp4MmJzbG5oaDJsbThnNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JWuBH9rCO2uZuHBFpm/giphy.gif" />
+  <img align="right" alt="GIF" width="260px" style="flex: 1; z-index: 21;" src="https://38.media.tumblr.com/f0f2514e14fcafeef53453070ddbf5eb/tumblr_neo0zp9PWA1shpedgo1_500.gif" />
 </div>
 
 I'm a Brazilian 🇧🇷 self-taught data developer that tried his luck living completly alone in Canada 🇨🇦. 
