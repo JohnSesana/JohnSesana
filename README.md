@@ -1,10 +1,10 @@
-# Self-Taught Data Engineer and Data Scientist 📊 
+# Self-Taught Developer 🇧🇷 🇨🇦
 
 <div style="position: relative;">
   <img align="right" alt="GIF" width="260px" style="flex: 1; z-index: 21;" src="https://38.media.tumblr.com/f0f2514e14fcafeef53453070ddbf5eb/tumblr_neo0zp9PWA1shpedgo1_500.gif" />
 </div>
 
-I'm a Brazilian 🇧🇷 self-taught data developer that tried his luck living completly alone in Canada 🇨🇦. 
+I'm a brazilian self-taught developer that tried his luck living completly alone in Canada. 
 I pivoted my career from business management to data analytics and now I'm currently working as a Data Engineer.
 
 ![JohnSesana's Stats](https://github-readme-stats.vercel.app/api?username=JohnSesana&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
