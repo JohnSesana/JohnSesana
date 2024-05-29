@@ -7,7 +7,7 @@
 I'm a brazilian self-taught developer that tried his luck living completly alone in Canada. 
 I pivoted my career from business management to data analytics and now I'm currently working as a Data Engineer.
 
-![JohnSesana's Stats](https://github-readme-stats.vercel.app/api?username=JohnSesana&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true)
+![JohnSesana's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JohnSesana&theme=chartreuse-dark&hide_border=true)
 
 ---
 ### 🧰 Languages and Tools I Use
