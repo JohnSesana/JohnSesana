@@ -21,6 +21,7 @@ I'm John, data engineer and self-taught developer, I enjoy doing some projects a
 
 <br>
 
+---
 ### 🌐 My Socials
 <div style="clear: both;">
   <a href="https://x.com/JohnSesana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="JohnSesana" height="30" width="40" /></a>
