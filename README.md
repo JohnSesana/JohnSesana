@@ -2,7 +2,6 @@
 
 I'm John, data engineer and self-taught developer, I enjoy doing some projects and having fun with code!
 
----
 ### 🧰 Some Languages and Tools I Use
 <div style="clear: both;">
     <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
@@ -22,7 +21,6 @@ I'm John, data engineer and self-taught developer, I enjoy doing some projects a
 
 <br>
 
----
 ### 🌐 My Socials
 <div style="clear: both;">
   <a href="https://x.com/JohnSesana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="JohnSesana" height="30" width="40" /></a>
