@@ -20,6 +20,8 @@ I'm John, data engineer and self-taught developer, I enjoy doing some projects a
     <img align="left" alt="TensorFlow" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" />
 </div>
 
+<br>
+
 ---
 ### 🌐 My Socials
 <div style="clear: both;">
