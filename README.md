@@ -1,4 +1,4 @@
-# Self-Taught Developer 🇧🇷 🇨🇦
+# Hi, there!
 
 <div style="position: relative;">
   <img align="right" alt="GIF" width="270px" style="flex: 1; z-index: 21;" src="https://38.media.tumblr.com/f0f2514e14fcafeef53453070ddbf5eb/tumblr_neo0zp9PWA1shpedgo1_500.gif" />
