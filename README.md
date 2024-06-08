@@ -24,6 +24,7 @@ I'm John, data engineer and self-taught developer, I enjoy doing some projects a
     <img align="left" alt="Scikit-Learn" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
     <img align="left" alt="Seaborn" width="30px" style="padding-right:10px;" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" />
     <img align="left" alt="TensorFlow" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" />
+    <img align="left" alt="Numpy" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" />
 </div>
 
 <br>
