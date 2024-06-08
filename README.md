@@ -1,8 +1,15 @@
-# Hi, there!
+# Self-Taught Developer 🇧🇷 🇨🇦
+
+<div style="position: relative;">
+  <img align="right" alt="GIF" width="270px" style="flex: 1; z-index: 21;" src="https://38.media.tumblr.com/f0f2514e14fcafeef53453070ddbf5eb/tumblr_neo0zp9PWA1shpedgo1_500.gif" />
+</div>
 
 I'm John, data engineer and self-taught developer, I enjoy doing some projects and having fun with code!
 
-### 🧰 Some Languages and Tools I Use
+![JohnSesana's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JohnSesana&theme=chartreuse-dark&hide_border=true)
+
+---
+### 🧰 Languages and Tools I Use
 <div style="clear: both;">
     <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
     <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
@@ -28,5 +35,4 @@ I'm John, data engineer and self-taught developer, I enjoy doing some projects a
   <a href="https://www.linkedin.com/in/johnsesana/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="JohnSesana" height="30" width="40" /></a>
 </div>
 
-```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/JohnSesana/Images/blob/main/Backgrounds/Vintage/mountain-vintage.jpg?raw=true');]{x0000}$}
+<br>
