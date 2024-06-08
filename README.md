@@ -4,7 +4,6 @@ I'm John, data engineer and self-taught developer, I enjoy doing some projects a
 
 ![JohnSesana's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JohnSesana&theme=chartreuse-dark&hide_border=true)
 
----
 ### 🧰 Languages and Tools I Use
 <div style="clear: both;">
     <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
@@ -23,6 +22,7 @@ I'm John, data engineer and self-taught developer, I enjoy doing some projects a
     <img align="left" alt="Numpy" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" />
 </div>
 
+<br>
 <br>
 
 ---
