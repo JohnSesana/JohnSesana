@@ -15,7 +15,7 @@
   
   ---
 
-  ### 🖥️ Some Languages and Tools I Use
+  ### 🖥️ Some Languages and Tools I Use 🖥️
   <div>
     <img alt="Python" width="30px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
     <img alt="Swift" width="30px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
@@ -31,7 +31,7 @@
   </div>
 
   ---
-  ### 🌐 My Socials
+  ### 🌐 My Socials 🌐
   <div>
     <a href="https://x.com/JohnSesana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="JohnSesana" height="30" width="30" /></a>
     <a href="https://www.linkedin.com/in/johnsesana/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="JohnSesana" height="30" width="30" /></a>
