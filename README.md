@@ -1,6 +1,6 @@
 # Hi, there!
 
-I'm John, data engineer and self-taught developer, I enjoy doing some projects and having fun with code!
+I'm John, a data engineer and self-taught developer. I enjoy doing some cool projects and having fun with code!
 
 ![JohnSesana's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JohnSesana&theme=chartreuse-dark&hide_border=true)
 
