@@ -5,14 +5,6 @@
   <br>
   I enjoy doing some cool projects and having fun with code!
 
-  <br>
-
-  <div>      
-
-![JohnSesana's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JohnSesana&theme=chartreuse-dark&hide_border=true)
-
-  </div>
-  
   ---
 
   ### 🖥️ Some Languages and Tools I Use 🖥️
