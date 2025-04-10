@@ -7,7 +7,7 @@
   I’m currently preparing to pursue a double major in **Computer Science and Statistics**, with a minor in **Mathematics**, as part of my journey to become a **Quantitative Researcher**.
   <br>
   <br>
- I spend most of my time studying advanced math, probability theory, and algorithmic trading techniques, while building projects that combine **data, code, and theory**.
+ I spend most of my time studying math, probability theory, and algorithmic trading techniques, while building projects that combine **data, code, and theory**.
   <br>
   <br>
  If you're interested in quantitave research and want to get some study resources check out my repo: 
