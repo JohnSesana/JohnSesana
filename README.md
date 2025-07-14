@@ -1,13 +1,15 @@
 <div align="center">
  
   # Welcome!
-  Hi, I’m **John** — a self-taught developer and data engineer with a deep interest in **mathematics**, **statistics**, and **quantitative research**.
+  Hi, I’m John! 
+  <br>
+  I'm a self-taught developer and data engineer with a strong interest in mathematics, statistics, quantitative research, and biology.
   <br>
   <br>
-  I’m currently preparing to pursue a double major in **Computer Science and Statistics**, with a minor in **Mathematics**, as part of my journey to become a **Quantitative Researcher**.
+  I’m currently exploring many different topics and trying to find my path. I've made some interesting resources for myself but feel free to use it. (some may not be finished)
   <br>
   <br>
- If you're interested in quantitave research and want to get some study resources check out my repo: 
+  If you're interested in quantitative research and looking for study resources, feel free to check out my repo:
   <br>
  📚 [Quant Study Resources](https://github.com/JohnSesana/Quant-Study-Resources)
  
