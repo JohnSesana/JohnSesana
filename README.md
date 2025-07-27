@@ -28,6 +28,7 @@
   ---
   ### 🌐 My Socials 🌐
   <div>    
-    <a href="https://www.linkedin.com/in/johnsesana/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="JohnSesana" height="30" width="30" /></a>
+    <a href="https://x.com/skull_dev_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="30" /></a>
+    <a href="https://www.linkedin.com/in/johnsesana/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="JohnSesana" height="30" width="30" /></a> 
   </div>
 </div>
