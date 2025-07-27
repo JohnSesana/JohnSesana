@@ -15,7 +15,7 @@
  
   ---
 
-  ### 🖥️ Some Languages and Tools I Use 🖥️
+  ### Some Languages and Tools I Use
   <div>
     <img alt="Python" width="30px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />    
     <img alt="C++" width="30px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />    
